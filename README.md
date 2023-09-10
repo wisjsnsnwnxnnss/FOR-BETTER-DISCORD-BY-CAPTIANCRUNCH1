@@ -1,7 +1,7 @@
 {
-  "name": "monkey",
+  "name": "nature",
   "version": "1.0",
-  "description": "a theme of a monkey for iphone not really ipad",
+  "description": "a theme of a nature mountian",
   "authors": [
     {
       "name": "captiancrunch1",
